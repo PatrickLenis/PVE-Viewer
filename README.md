@@ -59,7 +59,7 @@ Token secrets are saved locally on your Mac in the app's Application Support fol
 
 ## Local Data
 
-PVE Viewer stores saved instance metadata locally on the Mac running the app. It does not include any saved Proxmox VE instances, hostnames, IP addresses, API tokens, or token secrets in this repository.
+PVE Viewer stores saved instance metadata locally on the Mac running the app.
 
 ## Independence Disclaimer
 
