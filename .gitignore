@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build products and indexes
+build/
+.build/
+DerivedData/
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Swift Package Manager
+.swiftpm/
+
+# Local configuration and logs
+*.log
+*.xcresult
+
+# App-local data exports
+APITokens.json
+savedProxmoxInstances.json
